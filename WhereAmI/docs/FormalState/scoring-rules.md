@@ -1,4 +1,4 @@
-# Scoring Rules
+# Scoring Rules - доменные правила подсчёта очков
 
 ## Spy Victory
 - +2 base points

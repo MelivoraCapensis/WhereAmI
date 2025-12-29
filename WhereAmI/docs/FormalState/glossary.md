@@ -1,4 +1,4 @@
-# Glossary
+# Glossary - единый словарь терминов
 
 **Host** — Device acting as authoritative game coordinator  
 **Round** — One playable session inside a game  

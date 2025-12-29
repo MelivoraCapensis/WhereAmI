@@ -1,4 +1,4 @@
-# State Machine
+# State Machine - формальные таблицы переходов + ссылки
 
 ## Game State Transitions
 
@@ -33,5 +33,5 @@
 
 ## Diagrams
 
-- [Game Flow Diagram](diagrams/game-flow.mermaid)
-- [Round Flow Diagram](diagrams/round-flow.mermaid)
+- [Game Flow Diagram](FormalState/diagrams/game-flow.mermaid)
+- [Round Flow Diagram](FormalState/diagrams/round-flow.mermaid)
