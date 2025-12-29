@@ -1,0 +1,4 @@
+stateDiagram-v2
+    [*] --> Lobby
+    Lobby --> GameInProgress : StartGame
+    GameInProgress --> GameFinished : AllRoundsFinished

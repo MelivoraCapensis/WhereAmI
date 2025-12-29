@@ -1,0 +1,8 @@
+stateDiagram-v2
+    [*] --> Questioning
+    Questioning --> Voting : TimerExpired / EarlyVote
+    Questioning --> SpyGuessing : SpyGuess
+    Voting --> Questioning : NoConsensus
+    Voting --> Resolution : Consensus
+    SpyGuessing --> Resolution
+    Resolution --> [*]
